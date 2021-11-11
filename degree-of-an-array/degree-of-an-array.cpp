@@ -1,73 +1,59 @@
 class Solution {
 public:
+    static bool comp(pair<int,int> &a,pair<int,int> &b)
+    {
+        return a.second>b.second;
+    }
     int findShortestSubArray(vector<int>& nums) {
-        unordered_map<int,int> m;
+        
+        unordered_map<int,int> map;
         for(int i=0;i<nums.size();i++)
-            m[nums[i]]++;
-        int max1=INT_MIN;
-        for(int i=0;i<m.size();i++)
-        {
-            if(m[i]>max1)
-            {
-                max1=m[i];
-            }
-        }
+            map[nums[i]]++;
+        
         vector<int> l;
-        for(int i=0;i<m.size();i++)
+        vector<pair<int,int>> count;
+        for(auto x:map)
+            count.push_back(x);
+        
+        sort(count.begin(),count.end(),comp);
+        
+        for(int i=0;i<count.size();i++)
         {
-            if(m[i]==max1)
-            l.push_back(i);
+            if(count[0].second==count[i].second)
+                l.push_back(count[i].first);
+            else
+                break;
         }
         
-        int min1=INT_MAX;
-        int x=0;
-        int f=0;
-        int count=0;
         int i=0;
-        int count_f=0;
-        while(i<nums.size())
+        int min1=INT_MAX;
+        while(i<l.size())
         {
-            if(f==0 && nums[i]==l[x])
+            
+            int a,b;
+            //cout<<l[i]<<"  ";
+            for(int j=0;j<nums.size();j++)
             {
-                f=1;
-                count++;
-                count_f++;
-                
-            }
-            else if(f==1)
-            {
-                //cout<<count<<"   "<<l[x]<<"   "<<count_f<<"     "<<nums[i]<<endl;
-                if(nums[i]!=l[x] || nums[i]==l[x])
-                count++;
-                if(nums[i]==l[x]){
-                    
-                    count_f++;
+                if(nums[j]==l[i])
+                {
+                    a=j;break;
                 }
             }
             
-            if(count_f==max1)
+            for(int j=nums.size()-1;j>=0;j--)
             {
-                //cout<<count<<"    "<<l[x]<<endl;
-                if(min1>count)
+                if(nums[j]==l[i])
                 {
-                    min1=count; 
+                    b=j;break;
                 }
-                //cout<<l[x]<<endl;
-                 x++;
-                    count=0;
-                    count_f=0;
-                    f=0;
-                
-                    if(x==l.size())
-                        break;
-                i=0;
-                continue;
             }
+          //  cout<<min1<<" before";
+             min1=min(min1,b-a+1);
+           // cout<<min1<<endl;
             i++;
-            if(i==nums.size())
-                    i=0;
         }
         
         return min1;
+        
     }
 };
