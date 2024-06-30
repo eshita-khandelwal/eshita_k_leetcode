@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0136-single-number](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0136-single-number) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -27,8 +28,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0125-valid-palindrome) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0125-valid-palindrome) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 <!---LeetCode Topics End-->
