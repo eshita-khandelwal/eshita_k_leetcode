@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0739-daily-temperatures](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0739-daily-temperatures) |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0883-car-fleet) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
@@ -77,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0883-car-fleet) |
 ## Backtracking
