@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0125-valid-palindrome) |
+| [1023-time-based-key-value-store](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1023-time-based-key-value-store) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Sorting
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1023-time-based-key-value-store](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1023-time-based-key-value-store) |
 ## Greedy
 |  |
 | ------- |
@@ -102,8 +104,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0155-min-stack) |
+| [1023-time-based-key-value-store](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1023-time-based-key-value-store) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0074-search-a-2d-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [1023-time-based-key-value-store](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1023-time-based-key-value-store) |
 <!---LeetCode Topics End-->
