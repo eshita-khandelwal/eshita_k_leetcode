@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Dynamic Programming
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0206-reverse-linked-list) |
@@ -159,5 +161,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
