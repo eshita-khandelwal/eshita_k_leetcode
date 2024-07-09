@@ -4,19 +4,7 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def reversell(self,head):
-        prev=None
-        front=None
-        temp = head
-        while temp:
-            front = temp.next
-            temp.next = prev
-            prev = temp
-            temp = front
-        return prev
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
-        # head1 = self.reversell(l1)
-        # head2 = self.reversell(l2)
         head1=l1
         head2=l2
         sum1,carry=0,0
