@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0036-valid-sudoku) |
+| [0076-minimum-window-substring](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0383-ransom-note](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0383-ransom-note) |
@@ -144,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0567-permutation-in-string) |
 ## Counting
