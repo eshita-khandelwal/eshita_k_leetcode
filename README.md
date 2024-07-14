@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Dynamic Programming
@@ -144,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Hash Table
