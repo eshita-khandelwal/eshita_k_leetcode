@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0030-substring-with-concatenation-of-all-words](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0138-copy-list-with-random-pointer](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0205-isomorphic-strings](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0567-permutation-in-string) |
