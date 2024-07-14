@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0046-permutations) |
+| [0054-spiral-matrix](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Hash Table
 |  |
@@ -254,4 +256,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
