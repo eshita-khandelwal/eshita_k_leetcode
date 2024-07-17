@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0042-trapping-rain-water) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0141-linked-list-cycle) |
