@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0383-ransom-note) |
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0131-palindrome-partitioning) |
 ## Design
 |  |
 | ------- |
