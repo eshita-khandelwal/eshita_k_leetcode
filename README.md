@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0739-daily-temperatures](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0883-car-fleet) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Bit Manipulation
 |  |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0079-word-search) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Hash Table
 |  |
 | ------- |
