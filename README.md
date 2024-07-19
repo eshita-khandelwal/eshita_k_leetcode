@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0739-daily-temperatures](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0883-car-fleet) |
 | [1293-three-consecutive-odds](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1293-three-consecutive-odds) |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0016-3sum-closest) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0883-car-fleet](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0883-car-fleet) |
 ## Binary Search
 |  |
@@ -122,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1023-time-based-key-value-store](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1023-time-based-key-value-store) |
 ## Greedy
 |  |
@@ -186,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0290-word-pattern) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0567-permutation-in-string) |
