@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-delete-nodes-and-return-forest](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Bit Manipulation
 |  |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0011-container-with-most-water) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Stack
 |  |
 | ------- |
@@ -179,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0079-word-search) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Hash Table
 |  |
 | ------- |
