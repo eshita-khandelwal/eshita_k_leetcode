@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1023-time-based-key-value-store) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Sorting
 |  |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-delete-nodes-and-return-forest](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -265,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-delete-nodes-and-return-forest](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -290,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-delete-nodes-and-return-forest](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Search Tree
 |  |
 | ------- |
