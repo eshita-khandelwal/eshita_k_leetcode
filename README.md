@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0228-summary-ranges](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0525-contiguous-array](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0525-contiguous-array) |
 | [0739-daily-temperatures](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0883-car-fleet) |
 | [1207-delete-nodes-and-return-forest](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0525-contiguous-array](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1023-time-based-key-value-store) |
 | [1207-delete-nodes-and-return-forest](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -316,4 +318,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
