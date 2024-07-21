@@ -6,10 +6,9 @@ class Solution:
         for i in range(len(nums)):
             if nums[i]%2==1:
                 oddc+=1
-            nums[i] = oddc
             count[oddc] = 1 + count.get(oddc,0)
         if k in count:
-            res = count[k]
+            res = count[k] 
         for cnt,val in count.items():
             if cnt+k in count:
                 res+=count[cnt] * count[cnt+k]
