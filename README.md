@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2868-continuous-subarrays](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2868-continuous-subarrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0567-permutation-in-string) |
+| [2868-continuous-subarrays](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2868-continuous-subarrays) |
 ## Counting
 |  |
 | ------- |
@@ -322,4 +324,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0525-contiguous-array) |
+## Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2868-continuous-subarrays) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2868-continuous-subarrays) |
+## Ordered Set
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2868-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
