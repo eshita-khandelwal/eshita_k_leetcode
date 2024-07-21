@@ -13,8 +13,8 @@ class Solution:
                 res=zero+one
             else:
                 if zero-one in count:
-                    res=max(res,i-count[zero-one])
+                    res=max(res,i-count[zero-one]) #we do this because between these indices we got our perfect 0 number which we need. 
                 else:
-                    count[zero-one]=i
+                    count[zero-one]=i #storing it so we know when was the first time we encountereed it. do not update the first occurance because we want to find the maximum length
         
         return res
