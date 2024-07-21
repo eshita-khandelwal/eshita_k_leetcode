@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2868-continuous-subarrays) |
 | [3463-alternating-groups-i](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/3463-alternating-groups-i) |
 ## Bit Manipulation
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0200-number-of-islands) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1544-count-good-nodes-in-binary-tree](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -299,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0226-invert-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -331,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0200-number-of-islands) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
