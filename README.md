@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0525-contiguous-array](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0525-contiguous-array) |
+| [0695-max-area-of-island](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0883-car-fleet) |
 | [1207-delete-nodes-and-return-forest](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0695-max-area-of-island) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -287,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0695-max-area-of-island) |
 | [1207-delete-nodes-and-return-forest](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -301,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0226-invert-binary-tree) |
+| [0695-max-area-of-island](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
@@ -335,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0695-max-area-of-island) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Prefix Sum
 |  |
