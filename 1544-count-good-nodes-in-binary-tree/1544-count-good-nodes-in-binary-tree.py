@@ -10,9 +10,9 @@ class Solution:
             return 0
         res=0
         if root.val>=maxv:
-            res=1
-        maxv = max(maxv,root.val)
-        return res + self.dfs(root.left,maxv) + self.dfs(root.right,maxv)
+            maxv = max(maxv,root.val)
+            return 1 + self.dfs(root.left,maxv) + self.dfs(root.right,maxv)
+        return  self.dfs(root.left,maxv) + self.dfs(root.right,maxv)
     def goodNodes(self, root: TreeNode) -> int:
         
         return self.dfs(root,root.val)
