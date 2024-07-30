@@ -1,5 +1,6 @@
 class Solution:
     def findCircleNum(self, isConnected: List[List[int]]) -> int:
+        #solved using union find method
         n = len(isConnected)
         m = len(isConnected[0])
         parent = [i for i in range (n)]
