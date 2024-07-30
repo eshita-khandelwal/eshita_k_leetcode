@@ -298,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0695-max-area-of-island) |
 | [1207-delete-nodes-and-return-forest](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -316,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -352,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0695-max-area-of-island) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -381,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0684-redundant-connection) |
 ## Topological Sort
 |  |
