@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0948-sort-an-array) |
+| [1196-filling-bookcase-shelves](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1293-three-consecutive-odds) |
 | [1370-count-number-of-nice-subarrays](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0392-is-subsequence) |
+| [1196-filling-bookcase-shelves](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1196-filling-bookcase-shelves) |
 ## Memoization
 |  |
 | ------- |
