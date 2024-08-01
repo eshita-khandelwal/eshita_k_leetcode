@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0525-contiguous-array](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0525-contiguous-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0628-maximum-product-of-three-numbers](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Dynamic Programming
 |  |
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0016-3sum-closest) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0883-car-fleet](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
