@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1196-filling-bookcase-shelves](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1196-filling-bookcase-shelves) |
