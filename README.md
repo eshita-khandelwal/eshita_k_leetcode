@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2502-sort-the-people](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2868-continuous-subarrays) |
 | [3463-alternating-groups-i](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/3463-alternating-groups-i) |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2502-sort-the-people](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Sorting
 |  |
 | ------- |
