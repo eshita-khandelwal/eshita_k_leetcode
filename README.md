@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0747-min-cost-climbing-stairs) |
