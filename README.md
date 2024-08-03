@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1196-filling-bookcase-shelves](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1196-filling-bookcase-shelves) |
+| [1250-longest-common-subsequence](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1250-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0647-palindromic-substrings) |
 | [1023-time-based-key-value-store](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1023-time-based-key-value-store) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
+| [1250-longest-common-subsequence](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1250-longest-common-subsequence) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2502-sort-the-people](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2502-sort-the-people) |
