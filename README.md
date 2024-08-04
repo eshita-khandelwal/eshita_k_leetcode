@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0628-maximum-product-of-three-numbers](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -468,4 +470,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
