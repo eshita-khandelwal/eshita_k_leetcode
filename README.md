@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0628-maximum-product-of-three-numbers](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [2650-split-with-minimum-sum](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2650-split-with-minimum-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2502-sort-the-people](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2502-sort-the-people) |
+| [2650-split-with-minimum-sum](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2650-split-with-minimum-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0011-container-with-most-water) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2650-split-with-minimum-sum](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2650-split-with-minimum-sum) |
 ## Stack
 |  |
 | ------- |
