@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0079-word-search) |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -236,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0200-number-of-islands) |
