@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0494-target-sum) |
 | [0525-contiguous-array](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0337-house-robber-iii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -228,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0494-target-sum) |
 ## Design
 |  |
 | ------- |
