@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0064-minimum-path-sum) |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0056-merge-intervals) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0883-car-fleet](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0883-car-fleet) |
