@@ -1,19 +1,29 @@
 class Solution:
     def canPartition(self, nums: List[int]) -> bool:
-        #time complexity by brute force is 2^n as we have to take decisssion as to take a element or not take an element. A dp problem and complexity with that is O(n * sum(nums)/2) ~ O(n*sum(nums)). we can use set for this problem
-        if sum(nums)%2==1:
+        cache = {}
+        sum1 = sum(nums)
+        if sum1%2==1:
             return False
-
-        dp = set()
-        dp.add(0) #we choose no element
-        target = sum(nums)//2
-        for n in nums:
-            nextDp = set()
-            for j in dp:
-                nextDp.add(j+n)
-                nextDp.add(j)
-            dp = nextDp
-            if target in dp:
+        target = sum1//2
+        def part(i,s):
+            if (i,s) in cache:
+                return cache[(i,s)]
+            if i==len(nums):
+                if s!=target:
+                    return False
+                else:
+                    return True
+            if s == target:
                 return True
-        return False
-
+            a = part(i+1,s+nums[i])
+            if a:
+                return True
+            
+            b = part(i+1,s)
+            if b:
+                return True
+            cache[(i,s)] = False
+            return cache[(i,s)]
+        return part(0,0)
+            
+            
