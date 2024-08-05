@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0054-spiral-matrix) |
+| [0057-insert-interval](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0074-search-a-2d-matrix) |
