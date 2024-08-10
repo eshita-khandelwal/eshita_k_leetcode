@@ -1,21 +1,28 @@
-class Solution(object):
-    def isValid(self, s):
-        """
-        :type s: str
-        :rtype: bool
-        """
-        i = 0
-        n = len(s)
-        stack=[]
-        while i<n:
-            if s[i]=='(':
-                stack.append(')')
-            elif s[i]=='{':
-                stack.append('}')
-            elif s[i]=='[':
-                stack.append(']')
-            elif len(stack)==0 or stack.pop()!=s[i]:
-                return False
-            i+=1
-        
-        return len(stack)==0
+class Solution:
+    def isValid(self, s: str) -> bool:
+        stack = []
+        for i in s:
+            if i == '(' or i == '{' or i == '[':
+                stack.append(i)
+            else:
+                if len(stack)==0:
+                    return False
+                if stack:
+                    if i == ')':
+                        if stack[-1]=='(':
+                            stack.pop()
+                        else:
+                            return False
+                    elif i == '}':
+                        if stack[-1]=='{':
+                            stack.pop()
+                        else:
+                            return False
+                    elif i == ']':
+                        if stack[-1]=='[':
+                            stack.pop()
+                        else:
+                            return False
+
+        print(stack)
+        return True if len(stack)==0 else False
