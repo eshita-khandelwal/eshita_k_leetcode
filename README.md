@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0876-hand-of-straights](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1196-filling-bookcase-shelves) |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0876-hand-of-straights](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -229,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0876-hand-of-straights](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0876-hand-of-straights) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2650-split-with-minimum-sum](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2650-split-with-minimum-sum) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -308,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0567-permutation-in-string) |
+| [0876-hand-of-straights](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0876-hand-of-straights) |
 | [1023-time-based-key-value-store](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1023-time-based-key-value-store) |
 | [1207-delete-nodes-and-return-forest](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1370-count-number-of-nice-subarrays](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1370-count-number-of-nice-subarrays) |
