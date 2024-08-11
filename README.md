@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0063-unique-paths-ii) |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0064-minimum-path-sum) |
@@ -222,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
