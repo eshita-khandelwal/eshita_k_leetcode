@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1496-lucky-numbers-in-a-matrix](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0876-hand-of-straights](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0876-hand-of-straights) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2650-split-with-minimum-sum](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2650-split-with-minimum-sum) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
