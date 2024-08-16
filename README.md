@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0213-house-robber-ii) |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0139-word-break) |
 ## Two Pointers
 |  |
 | ------- |
@@ -176,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0097-interleaving-string](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0383-ransom-note) |
@@ -303,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0205-isomorphic-strings) |
@@ -539,4 +544,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0062-unique-paths) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
