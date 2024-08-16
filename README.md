@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0583-delete-operation-for-two-strings](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1196-filling-bookcase-shelves](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1250-longest-common-subsequence](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1250-longest-common-subsequence) |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1023-time-based-key-value-store](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1023-time-based-key-value-store) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1250-longest-common-subsequence](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1250-longest-common-subsequence) |
@@ -236,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0876-hand-of-straights](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0876-hand-of-straights) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -251,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/0883-car-fleet) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/eshita-khandelwal/eshita_k_leetcode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
